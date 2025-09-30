@@ -54,9 +54,9 @@ This repository showcases a curated Tableau dashboard that serves as a powerful 
 Explore the dashboard's interactive pages and their powerful visualizations:
 
 ### GitHub Screenshots
+* ▶️ **[Detailed Analysis](https://github.com/shivanisyal09/Car-Market-Analysis-Tableau/blob/main/Car_Data_Analysis.png)**
 * ▶️ **[Market Summary](https://github.com/shivanisyal09/Car-Market-Analysis-Tableau/blob/main/Market_Summary.png)**
-* ▶️ **[Detailed Analysis](https://github.com/shivanisyal09/Car-Market-Analysis-Tableau/blob/main/Detailed_Analysis.png)**
 
 ### Tableau Public Links
-* **[Dashboard 1 - Overview](https://public.tableau.com/views/Book1_17413573421750/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 * **[Which Car to Buy? Dashboard](https://public.tableau.com/views/CarDataAnalysis_17582815445630/CarDataAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+* **[Dashboad2](https://public.tableau.com/views/Book1_17413573421750/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
