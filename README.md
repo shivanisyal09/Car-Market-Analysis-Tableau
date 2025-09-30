@@ -59,4 +59,4 @@ Explore the dashboard's interactive pages and their powerful visualizations:
 
 ### Tableau Public Links
 * **[Dashboard 1 - Overview](https://public.tableau.com/views/Book1_17413573421750/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-* **[Which Car to Buy? Dashboard](https://public.tableau.com/views/W1ppinclassdashboard/Whichcartobuy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+* **[Which Car to Buy? Dashboard]([https://public.tableau.com/views/W1ppinclassdashboard/Whichcartobuy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/CarDataAnalysis_17582815445630/CarDataAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
